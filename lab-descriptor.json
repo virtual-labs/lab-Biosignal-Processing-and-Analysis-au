@@ -114,9 +114,9 @@
       "University of Kerala Senate House Campus Kerala"
     ]
   },
-  "version": "v1.2.0",
-  "exp_name": "Study the changes in the PSDs by varying window width",
-  "exp_short_name": "study-psds",
+  "version": "v1.3.0",
+  "exp_name": "Reconstructing averaged population response",
+  "exp_short_name": "population-response",
   "production": true,
   "current_item": {
     "item": "feedback",
