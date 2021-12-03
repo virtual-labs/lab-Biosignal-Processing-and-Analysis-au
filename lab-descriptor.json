@@ -63,7 +63,7 @@
       "name": "Temporal structure in EEG",
       "short-name": "eeg",
       "repo": "https://github.com/virtual-labs/exp-eeg-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
