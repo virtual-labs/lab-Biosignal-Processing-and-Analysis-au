@@ -84,7 +84,7 @@
       "name": "Modeling synaptic network connectivity",
       "short-name": "network-connectivity",
       "repo": "https://github.com/virtual-labs/exp-network-connectivity-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
